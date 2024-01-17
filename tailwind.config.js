@@ -13,7 +13,7 @@ const disabledCss = {
 }
 
 module.exports = {
-  content: ["./*.{js,html,qmd,md,Rmd}"],
+  content: ["./*.{js,html,qmd,md,Rmd,R,r}"],
   theme: {
     extend: {
       typography: {
